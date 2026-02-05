@@ -20,7 +20,7 @@ This analysis of 55,500 patient records (54,966 after deduplication) from thousa
 - [`Healthcare_cleaned.csv`](Healthcare_cleaned.csv) (54,966 rows and 17 columns - analysis-ready)
 - `data_dictionary.md` (column definitions + cleaning notes)
 - 
-- ## Tools Used
+## Tools Used
 **Excel** 
 - Initial data preview and exploration
 - Quick validation of column distributions
