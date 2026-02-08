@@ -91,11 +91,11 @@ This analysis of 55,500 patient records (54,966 after deduplication) from thousa
 
 | Q# | Question | Key Finding |
 |----|----------|-------------|
-| Q1 | Medical Condition vs Age Distribution of Patients | <ul><li> Children represent ~2-3% of hospital admissions. Though rarely hospitalised for adult-onset conditions like hypertension(11), diabetes(16), and arthritis(21).<ul><li> Arthritis dominates overall volume (9218 patients) but shows balanced age distribution |
-| Q2 | Which Blood Type Correlates with the Highest Diabetes Prevalence? | **A+ highest prevalence (13%)** |
-| Q3 | How does the average Length of Stay (LoS) vary by medical condition, and which has the highest? | **Asthma: 15.7 days** |
-| Q4 | How are test result categories (Abnormal, Inconclusive, Normal) distributed as percentages across medical conditions? | **Hypertension: 33.5%** |
-| Q5 | What Age-Gender Bracket Peaks in Arthritis Cases? | **30-50 Female (1,391 cases)** |
+| Q1 | Medical Condition vs Age Distribution of Patients | • Pediatrics (0-17) represent ~2-3% of hospital admissions, although adult-onset conditions like hypertension(11), diabetes(16), and arthritis(21) are rare in pediatric cases. <br>• Arthritis dominates overall volume (9218 patients) but shows balanced age distribution. |
+| Q2 | Which Blood Type Correlates with the Highest Diabetes Prevalence? | A+ blood type takes the lead with 13%, but uniform diabetes distribution across blood types (12.0-13.0%) shows no significant blood type-diabetes correlation in the dataset. |
+| Q3 | How does the average Length of Stay (LoS) vary by medical condition, and which has the highest? | Shows uniform average LoS of 15 days across medical conditions. (Higher than expected).  |
+| Q4 | How are test result categories (Abnormal, Inconclusive, Normal) distributed as percentages across medical conditions? | All conditions have basically the same test result split, about 33% normal, 33% abnormal, 33% inconclusive. The perfect uniformity of the dataset shows a more synthetic nature than a real-life clinical dataset. |
+| Q5 | What Age-Gender Bracket Peaks in Arthritis Cases? | Arthritis cases for both males and females are low under age 30, peak strongly between 30-70, then drop off after 70, which doesn't show real-world patterns where we would expect cases to stay high or rise in older age groups. |
 | Q6 | Top 10 Hospitals by Admission Volumes? | **Volume leaders identified** |
 | Q7 | Medical Conditions by Hospital Density? | **Condition specialization patterns** |
 | Q8 | Top 5 Insurance Providers? | **Market share distribution** |
