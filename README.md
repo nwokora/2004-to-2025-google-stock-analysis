@@ -11,10 +11,10 @@
 - [Insights and Recommendations](#insights-and-recommendations)
 - [Author](#author)
 
-## Files
-
 ## Project Overview
 This analysis of 55,500 patient records (54,966 after deduplication) from thousands of hospitals reveals how medical conditions influence patient volumes and how factors such as blood type, age, and gender impact their prevalence. It also helps to understand the operational bottlenecks, demographic patterns, and hospital performance to boost clinical efficiency and optimisation.
+
+## Files
 
 ## Data Sources
 **Dataset**: A synthetic healthcare dataset containing 55,500 patient records across 15 columns, including medical condition, hospital, doctor, test result, etc., by [**Prasad Patil**](https://www.kaggle.com/prasad22).
