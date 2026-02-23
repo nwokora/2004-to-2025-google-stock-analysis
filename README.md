@@ -17,9 +17,8 @@
 This analysis of 55,500 patient records (54,966 after deduplication) from thousands of hospitals reveals how medical conditions influence patient volumes and how factors such as blood type, age, and gender impact their prevalence. It also helps to understand the operational bottlenecks, demographic patterns, and hospital performance to boost clinical efficiency and optimisation.
 
 ## Files Provided    
-- **Original Dataset**: (5,279 rows and 7 columns - original) [Download](https://www.kaggle.com/datasets/muqaddasejaz/google-stock-dataset-20042025)
-- **Post-Cleaning**: (5,279 rows and 11 columns - analysis-ready)
-- Data Dictionary.md` (column definitions + cleaning notes)
+  
+## Data Dictionary.md` (column definitions + cleaning notes)
 
 ## Data Sources
 2004-2025 Google Stock Dataset (5,279 rows × 7 columns) [Download](https://www.kaggle.com/datasets/muqaddasejaz/google-stock-dataset-20042025)
