@@ -16,15 +16,13 @@
 ## Project Overview
 This analysis of 55,500 patient records (54,966 after deduplication) from thousands of hospitals reveals how medical conditions influence patient volumes and how factors such as blood type, age, and gender impact their prevalence. It also helps to understand the operational bottlenecks, demographic patterns, and hospital performance to boost clinical efficiency and optimisation.
 
-## Files Provided
-**Post-Cleaning**: 54,966 rows (534 duplicates removed), and 17 columns (Admission_ID and Length of Stay added)    
-**Files Provided**:
-- **Original Dataset**: (55,500 rows and 15 columns - original) [Download](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
-- **Post-Cleaning**: (54,966 rows and 17 columns - analysis-ready)[Download](./Healthcare_dataset_cleaned.csv)
+## Files Provided    
+- **Original Dataset**: (5,279 rows and 7 columns - original) [Download](https://www.kaggle.com/datasets/muqaddasejaz/google-stock-dataset-20042025)
+- **Post-Cleaning**: (5,279 rows and 11 columns - analysis-ready)
 - Data Dictionary.md` (column definitions + cleaning notes)
 
 ## Data Sources
-A synthetic healthcare dataset containing 55,500 patient records across 15 columns, including medical condition, hospital, doctor, test result, etc., by [**Prasad Patil**](https://www.kaggle.com/prasad22).
+Google Stock Dataset (2004–2025) [Download](https://www.kaggle.com/datasets/muqaddasejaz/google-stock-dataset-20042025)
 
 ## Tools Used
 **Excel** 
@@ -32,14 +30,14 @@ A synthetic healthcare dataset containing 55,500 patient records across 15 colum
 - Quick validation of column distributions
 
 **Python**
-- `pandas` (data cleaning: 55,500 → 54,966 rows deduplicated, groupby analysis)
-- `matplotlib` (visualisations for all 10 questions)
+- `pandas` (data cleaning and preparation)
+- `matplotlib` (creates visualization)
 
 **Workflow**: Excel preview → Python cleaning → Pandas analysis → Matplotlib charts
 
 ## Data Cleaning and Preparation
-**Raw dataset**: 5279 rows × 7 columns (pre-wrangling).  
-**Processed dataset**: 5279 rows, and 11 columns(4 added).
+**Raw dataset**: 5,279 rows × 7 columns (pre-wrangling).  
+**Processed dataset**: 5,279 rows, and 11 columns(4 added).
 
 ### Data Quality Check:
 
