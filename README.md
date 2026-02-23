@@ -80,21 +80,13 @@ A synthetic healthcare dataset containing 55,500 patient records across 15 colum
 
 ## Analysis Findings
 ### 5 Business Questions Answered
-
-**Q1:  Which year saw the highest trading activity in GOOG shares, and what drove the volume spikes?**
-A: **30.6% annual volatility** = Moderate-high risk (typical Big Tech)
-
-**Q2: GOOG's closing price evolution from IPO (2004) to 2025, including performance during major stress periods like the 2008 crisis, 2020 COVID crash, 2022 bear market?** 
-A: **MA20 > MA50** = Yes, bullish trend confirmed
-
-**Q3: Which year had the highest average daily trading volume for GOOG shares, and why?**
-A: **0 missing values, 0 duplicates** = Dataset reliable
-
-**Q4: How do GOOG's average daily returns vary by month across 2004-2025?**
-A: **Volume spikes align with 5%+ return days** = News/earnings driven
-
-**Q5: How do GOOG's 20-day and 50-day moving averages reveal short-term trends and trading signals from 2020-2025?**
-A: 
+| Q | Question | Result |
+|---| ---------|--------|
+| **Q1** | **Which year saw the highest trading activity in GOOG shares, and what drove the volume spikes?** | A: **30.6% annual volatility** = Moderate-high risk (typical Big Tech)|
+| **Q2** | **GOOG's closing price evolution from IPO (2004) to 2025, including performance during major stress periods like the 2008 crisis, 2020 COVID crash, and 2022 bear market?** | A: MA20 > MA50 = Yes, bullish trend confirmed |
+| **Q3** | **Which year had the highest average daily trading volume for GOOG shares, and why?** | A: 0 missing values, 0 duplicates = Dataset reliable |
+| **Q4** | **How do GOOG's average daily returns vary by month across 2004-2025?** | A: Volume spikes align with 5%+ return days = News/earnings driven |
+| **Q5** | **How do GOOG's 20-day and 50-day moving averages reveal short-term trends and trading signals from 2020-2025?** | A: |
 
 
 ## Recommendations
@@ -120,4 +112,4 @@ Multiple synthetic artefacts invalidate it for real-world healthcare insights; t
 **Complete analysis**: `Healthcare_Analysis.ipynb` (interactive charts + code)
 
 ## Author
-[Somadina Nwokora](https://www.linkedin.com/in/somadina-nwokora/)
+[LinkedIn](https://www.linkedin.com/in/somadina-nwokora/)
