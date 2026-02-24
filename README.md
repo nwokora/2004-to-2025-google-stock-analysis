@@ -1,4 +1,4 @@
-# 2004-2025 Google Stock Dataset
+# 2004-2025 Google Stock Analysis
 
 ## Table of Contents
 - [Project Overview](#project-overview)
