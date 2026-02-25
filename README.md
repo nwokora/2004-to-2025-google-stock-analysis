@@ -14,7 +14,7 @@
 - [Author](#author)
 
 ## Project Overview
-This comprehensive analysis of Alphabet Inc. (GOOG) daily OHLCV data (Aug 19, 2004 - Aug 2025 post-IPO) reveals 20 years of stock volatility patterns, further narrowing down the trend to mirror through the 3 massive market crashes of the 2008 crisis, the COVID chaos, and the 2022 bear market.  
+This comprehensive analysis of Alphabet Inc. (GOOG) daily OHLCV data reveals an interesting 20-year growth trend, from ~2.50 (August 19, 2004) to ~200 (August 2025, post-IPO), in the stock's volatility patterns. It further narrows down the trend to mirror the 3 massive market crashes of the 2008 crisis, the COVID chaos, and the 2022 bear market.  
 Skills demonstrated in this analysis include: data import and cleanup → crisis performance insights → clean matplotlib visualizations, and critical thinking, making it suitable for financial analytics insights.
 
 ## Files Provided    
