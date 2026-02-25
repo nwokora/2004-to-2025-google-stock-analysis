@@ -14,9 +14,8 @@
 - [Author](#author)
 
 ## Project Overview
-Comprehensive analysis of Alphabet Inc. (GOOG) daily OHLCV stock data spanning the complete post IPO history (Aug 19, 2004 - Aug 2025). This project shows the stock volatility over 20 years, and Tracked GOOG through 3 massive market crashes of 2008 meltdown, COVID chaos, and 2022 bear market
-
-Skills demonstrated in this analysis include; data import and cleanup → crisis performance insights → clean matplotlib visualizations, and critical thinking, making it suitable for financial analytics tasks.
+This comprehensive analysis of Alphabet Inc. (GOOG) daily OHLCV data (Aug 19, 2004 - Aug 2025 post-IPO) reveals 20 years of stock volatility patterns, further narrowing down the trend to mirror through the 3 massive market crashes of the 2008 crisis, the COVID chaos, and the 2022 bear market.  
+Skills demonstrated in this analysis include: data import and cleanup → crisis performance insights → clean matplotlib visualizations, and critical thinking, making it suitable for financial analytics insights.
 
 ## Files Provided    
 
