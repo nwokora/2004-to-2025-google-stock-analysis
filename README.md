@@ -100,8 +100,8 @@ GOOG stock bounces back strongly from every crisis. Handled the 2008 panic with 
 
 
 ## Visualization  
-Key insights from GOOG stock data analysis:
-<img src="images/GOOG%20Excel%20Preview.png" width="48%" height="300"/>
+Key insights from GOOG stock data analysis:  
+<img src="https://raw.githubusercontent.com/Nwokora/2004-to-2025-Google-Stock-Analysis/main/GOOG%20Stock/GOOG%20Excel%20Preview.png" width="48%" height="300"/>
 
 
 
