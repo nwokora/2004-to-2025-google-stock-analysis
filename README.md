@@ -1,4 +1,4 @@
-# 💹 Analysis of Coca-Cola (KO) Stock Performance from 1962 to 2022.
+# 💹 Analysis of Google (GOOG) Stock Performance from 2004 to 2025.
 This comprehensive analysis of Alphabet Inc.'s daily OHLCV stock (GOOG) reveals a remarkable 20-year growth trajectory that saw the shares move from ~2.50 (August 19, 2004) to ~200 in 20 years (August 19, 2004 to August 2025), after it first entered its Initial Public Offering (IPO) on August 19, 2004.  
 It further narrows down the trend to mirror the 3 massive market crashes of the 2008 crisis, the COVID chaos, and the 2022 bear market.  
 Skills demonstrated include: data import/cleanup, crisis performance insights, clean matplotlib visualizations, as well as critical thinking and problem-solving, ideal for financial analysis insights.
