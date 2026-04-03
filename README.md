@@ -18,12 +18,13 @@ Skills demonstrated include: data import/cleanup, crisis performance insights, c
 
  ## 🧠 Skills Demonstrated
 - Data transformation from raw to cleaned datasets using pandas
-- Date series indexing and chronological sorting `df.set_index("date").sort_index()`
+- Datetime standardization `df["date"] = pd.to_datetime(df["date"])`
+- Date series indexing and chronological sorting `df = df.set_index("date").sort_index()`
 - Missing value detection `df.isna().sum()`
-- Duplicate identification `df.index.duplicated().sum()`
+- Duplicate index detection `df.index.duplicated().sum()`
 - Daily price range calculation `df["range"] = df["high"] - df["low"]`
 - Financial chart visualization of historical stock performance using Matplotlib
-- Problem-solving to match and analyse aggregation trends
+- Problem-solving to match and analyze aggregation trends
 
 ## 📊 Business Questions Answered
 1. Total Trading Volume by Year
