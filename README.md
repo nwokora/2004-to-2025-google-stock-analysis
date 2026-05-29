@@ -45,6 +45,7 @@ Google Stock Dataset (2004–2025) by MuqadasEjaz and collaborators on Kaggle (5
 - **Average Closing Price by Year** – This analysis tracks GOOG's average closing price each year from 2004 to 2025, revealing a strong upward trend from the lowest yearly average of 3.85 to the highest yearly average of 177.86.
 - **Average Daily Return by Year** – This analysis calculates GOOG's average daily return for each year from 2004 to 2025, showing that the best year was 2004 with an average daily return of +0.0071, while the worst was 2008 at -0.0026. The years 2014 and 2022 also posted negative average daily returns, similar to 2008.
 - **Average Daily Return by Month** – This analysis examines GOOG's average daily return for each month across the 21-year period, revealing that October delivers the strongest performance with an average daily return of +0.0037, while February performs the weakest at -0.0014.
+- **Closing Price with Major Stress Periods Highlighted** –
 
 ## 🔭 Visualizations
 <img width="1024" height="409" alt="03_goog_total_trading_volume_by_year" src="https://github.com/user-attachments/assets/c4d2b0e3-0e54-4f37-9552-ef7dcd95c341" />
@@ -55,7 +56,7 @@ Google Stock Dataset (2004–2025) by MuqadasEjaz and collaborators on Kaggle (5
    
 **Average Closing Price by Year shows the lowest yearly average closing price was 3.85, while the highest was 177.86. Overall, the pattern shows a strong and consistent upward trend, with GOOG's price climbing dramatically from its early years after the IPO to much higher levels by the end of the period.**
 
-<img width="1027" height="445" alt="06_goog_average_daily_return_by_year" src="https://github.com/user-attachments/assets/4bc20532-9152-4e29-ac08-f5be9a19282e" />
+<img width="962" height="354" alt="Screenshot 2026-05-29 125650" src="https://github.com/user-attachments/assets/9fbefec4-1e1f-4da8-acaa-f7cd52e91b22" />
 
 **Average Daily Return by Year reveals the highest average daily return occurred in 2004 at +0.0071, while the lowest was in 2008 at -0.0026. The years 2014 and 2022 also posted negative average daily returns.**
 
